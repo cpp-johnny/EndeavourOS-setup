@@ -1,9 +1,9 @@
 # EndeavourOS setup (gnome)
 
 ## Why EOS?
-eos is just good idk, also arch yay
+- eos is just good idk, also arch yay
 
-tried with kde but gave up, so here's gnome instead
+- tried with kde but gave up, so here's gnome instead
 
 ## screenshots
 <details>
