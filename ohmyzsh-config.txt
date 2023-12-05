@@ -1,6 +1,0 @@
-special font using p10k (https://github.com/romkatv/powerlevel10k#ohmyzsh)
-
-followed tutorial from: https://www.youtube.com/watch?v=SVh4osULjP4
-
-note: if want to reconfigure again, simply run:
-$ p10k configure
