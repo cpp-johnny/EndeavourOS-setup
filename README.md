@@ -37,8 +37,60 @@ tried with kde but gave up, so here's gnome instead
 
 
 ## common packages
-* ill upload later
+<details>
+<summary>useful packages </summary>
+<br>
 
+```
+terminal:             kgx, alacritty (with catpuccin theme)
+editor:               NvChad (with custom launch theme), VS Code, VSCodium
+note taking:          Obsidian
+browser:              firefox, brave
+LaTeX:                TeXstudio
+image manupilation:   Gimp
+screen recorder:      OBS
+```
+</details>
+
+
+<details>
+<summary>fun packages </summary>
+<br>
+
+```
+bpytop
+cava
+cbonsai
+cmatrix
+htop
+periodic-table-cli 
+pipes.sh
+rusty-rain
+tty-clock
+```
+</details>
+
+<details>
+<summary>gnome extension </summary>
+<br>
+
+```
+dash to dock
+extension list
+transparent top bar
+workspace indicator
+```
+</details>
+
+<details>
+<summary>firefox extension </summary>
+<br>
+
+```
+uBlock Origin
+Dark Reader
+```
+</details>
 
 ## you may want to check out
 
