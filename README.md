@@ -42,7 +42,7 @@
 <br>
 
 ```
-terminal:             kgx, alacritty (with catpuccin theme)
+terminal:             kgx, alacritty (with monakai charcoal theme)
 editor:               NvChad (radium theme, with custom launch theme), VS Code, VSCodium
 note taking:          Obsidian
 browser:              firefox, brave
