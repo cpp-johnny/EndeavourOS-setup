@@ -43,7 +43,7 @@
 
 ```
 terminal:             kgx, alacritty (with monakai charcoal theme)
-editor:               NvChad (radium theme, with custom launch theme), VS Code, VSCodium
+editor:               NvChad (radium theme, with custom pikachu launch), VS Code, VSCodium
 note taking:          Obsidian
 browser:              firefox, brave
 LaTeX:                TeXstudio
