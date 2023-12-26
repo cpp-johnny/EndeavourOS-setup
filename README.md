@@ -80,7 +80,10 @@ extension list
 transparent top bar
 workspace indicator
 emoji copy (a clone of emoji selector since the original do not work with gnome 45)
+windows rounded corners*
 ```
+\* [link](https://github.com/yilozt/rounded-window-corners) 
+
 </details>
 
 <details>
