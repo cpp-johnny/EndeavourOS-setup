@@ -93,6 +93,21 @@ Dark Reader
 ```
 </details>
 
+## fonts
+<details>
+<summary>Interface & Terminal</summary>
+  
+  1. Inter
+
+  2. JetBrain Mono
+  
+  3. Cantarell
+
+
+</details>
+
+
+
 ## you may want to check out
 
 [ubuntu setup (gnome on wayland/xorg & dwm)](https://github.com/cpp-johnny/ubuntu-setup/tree/main)
