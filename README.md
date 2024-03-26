@@ -1,4 +1,5 @@
 # EndeavourOS setup (gnome)
+## UPDATE: GNOME 46 BROKE THE SYSTEM LMAO
 
 ## Why EOS?
 - eos is just good idk, also arch yay
